@@ -1,0 +1,2 @@
+Some images that we can use are the DATA character, the Roosevelt logo and similar things.
+Fonts that we can use are Monospace, DejaVu sans, and Gentium Basic.
