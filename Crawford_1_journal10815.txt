@@ -1,0 +1,2 @@
+By mixing the colors in cool pattern.
+you put put the colors together with gradients and for loop making a gif and add a cool label.

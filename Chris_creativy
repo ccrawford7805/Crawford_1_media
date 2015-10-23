@@ -1,0 +1,29 @@
+<markup><!--
+This is of course a SGML/XML comment which can be ignored and
+as such can also be used to add hidden newlines into this demo.
+
+Markup language syntax...
+  http://www.pygtk.org/docs/pygtk/pango-markup-language.html
+  http://www.ibm.com/developerworks/library/l-u-pango1/
+
+Viewing this file...
+  pango-view --dpi=72 --markup pango_test.txt
+
+  convert pango:@pango_test.txt show:
+
+--><span size="50000">Chris Crawford</span>
+<span bgcolor="lightblue"><big><big> What Is Creativity? </big></big></span>
+<span> </span>
+ <small><u><small><small>It</small> is</small> taking an</u></small><!--
+
+--> <span> </span>
+ <span strikethrough_color="red"><i><s>Original Idea and</s></i></span><!--
+
+<span> </span>
+--> <big>putting <big><span underline="double">your own</span>
+<span> </span>
+<span fgcolor="red"><big><b>twist on it</b></big></span></big></big>
+
+
+
+</markup>

@@ -1,0 +1,4 @@
+Not sure.
+
+* for font in $(cat fonts.txt); do cobvert -background lightblue -fill blue
+-font "$font" -pointsize 64 label:"Ninja" "$font_ninja.gif; done
