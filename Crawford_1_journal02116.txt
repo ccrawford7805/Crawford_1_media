@@ -1,0 +1,3 @@
+https://www.adafruit.com/products/2349
+
+link to sensor, will also need speakers and will use monitor as display
