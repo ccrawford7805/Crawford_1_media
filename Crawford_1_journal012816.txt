@@ -1,0 +1,6 @@
+Electret Microphone Amplifier
+  - https://www.adafruit.com/products/1063
+  - $6.95
+  - I will use it to say a phrase that sill trigger the raspberry to show certaqin images
+  - this works by pins plugged into the breed board 
+
