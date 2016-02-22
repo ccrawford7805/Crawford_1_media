@@ -1,0 +1,9 @@
+Milestones 
+	- adding sensors
+	- adding sound
+	- moving to PI
+	- fixing numbering system 
+	- adjusting photo sizes
+Today ill have fixed numbering system maybe the add sound it it takes to long then it will be added very last. But will also have fixed image size.
+Once images are fixed ill see about moving to PI and hopefully add the sensors.
+
