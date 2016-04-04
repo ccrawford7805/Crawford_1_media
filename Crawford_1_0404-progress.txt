@@ -1,0 +1,3 @@
+Ive got my box made and code so what put together. it just had to be adjusted to the buttions instead of motion sensored.
+the only left i have to do is make a poster, get the PI incide the case and the code to work with the buttuons.
+If i really work hard these next couple days, i believe i can turn it in friday.
