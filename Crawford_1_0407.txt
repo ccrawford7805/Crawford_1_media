@@ -1,0 +1,4 @@
+I leanred that when putting files together to rename them so that when you have to type them in, its easier to remember the names.
+having multipule images with crazy letters to make a file name isnt easy to remember.
+I also leanred how to use the laser cutter to a cetain degree. In the laser cutter, you have to crase the outline of the box and make it red so it knows the difference in what to cut. And if you have a picture or text, you have to make that a differnt color so it dosent cut it all the way through the wood.
+With the code, I learned how with the buttons that they have to each be set to what you want to do when pushed and for how long. For instance, when I push a button on the left I want to show a ceratin image of kanye until a different button is, I dont want it show the same image again or the other picture to come up while another is already on the screen.
