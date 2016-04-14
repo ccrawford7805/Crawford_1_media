@@ -1,0 +1,4 @@
+Animations can be part of interavtive media by what that the animation does. For example, when you press certain buttons, the animation will do someting.
+x.y,z are the axes in 3-D space.
+because they pay more.
+The walk-through will help for first time user and/or help refresh for people who havent use it in a while.
